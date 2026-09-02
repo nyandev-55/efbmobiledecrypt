@@ -44,7 +44,7 @@ pip install pycryptodome msgpack
 
 1. Run the script:
 ```bash
-python decoderwithoutput.pyw
+python efbdecryptortool.pyw
 
 ```
 
