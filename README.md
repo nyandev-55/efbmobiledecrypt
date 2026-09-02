@@ -6,9 +6,7 @@ It handles **AES-256 (CBC mode)** decryption, **Gzip** decompression, and **Mess
 
 ---
 
-
-![Alternatif Metin](efbmobiledecrypt/images/Ekran_görüntüsü_2026-09-02_143843.png)
-
+![Application Screenshot](efbmobiledecrypt/images/Ekran_görüntüsü_2026-09-02_143843.png)
 
 ## 🌟 Key Features
 
@@ -29,29 +27,23 @@ Make sure you have Python 3.8+ installed on your system.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/efb-mobile-packet-decoder.git](https://github.com/your-username/efb-mobile-packet-decoder.git)
+   git clone https://github.com/your-username/efb-mobile-packet-decoder.git
    cd efb-mobile-packet-decoder
-
-```
+   ```
 
 2. Install the required dependencies:
-```bash
-pip install pycryptodome msgpack
-
-```
-
-
+   ```bash
+   pip install pycryptodome msgpack
+   ```
 
 ---
 
 ## 💻 Usage
 
 1. Run the script:
-```bash
-python efbdecryptortool.pyw
-
-```
-
+   ```bash
+   python efbdecryptortool.pyw
+   ```
 
 2. Paste your encrypted **Hex Payload** into the top text box.
 3. Click **Decode Packet**.
@@ -71,7 +63,3 @@ python efbdecryptortool.pyw
 ## ⚠️ Disclaimer
 
 This tool is created for educational, research, and debugging purposes only. Use responsibly.
-
-```
-
-```
