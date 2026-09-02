@@ -6,7 +6,7 @@ It handles **AES-256 (CBC mode)** decryption, **Gzip** decompression, and **Mess
 
 ---
 
-![Application Screenshot](efbmobiledecrypt/images/Ekran_görüntüsü_2026-09-02_143843.png)
+![Application Screenshot](https://githubusercontent.com)
 
 ## 🌟 Key Features
 
