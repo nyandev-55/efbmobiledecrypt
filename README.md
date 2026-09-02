@@ -27,8 +27,8 @@ Make sure you have Python 3.8+ installed on your system.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/efb-mobile-packet-decoder.git
-   cd efb-mobile-packet-decoder
+   git clone https://github.com
+   cd efbmobiledecrypt
    ```
 
 2. Install the required dependencies:
