@@ -6,7 +6,8 @@ It handles **AES-256 (CBC mode)** decryption, **Gzip** decompression, and **Mess
 
 ---
 
-![Application Screenshot](https://githubusercontent.com)
+<img width="651" height="633" alt="Ekran görüntüsü 2026-09-02 143843" src="https://github.com/user-attachments/assets/6e4a0449-dc6c-4398-9c9d-0d4ae15028d0" />
+
 
 ## 🌟 Key Features
 
