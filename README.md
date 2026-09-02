@@ -6,6 +6,10 @@ It handles **AES-256 (CBC mode)** decryption, **Gzip** decompression, and **Mess
 
 ---
 
+
+![Alternatif Metin](efbmobiledecrypt/images/Ekran_görüntüsü_2026-09-02_143843.png)
+
+
 ## 🌟 Key Features
 
 - 🔐 **AES-256 (CBC) Decryption:** Automatically handles initialization vectors (IV) and decrypts hex payload strings.
